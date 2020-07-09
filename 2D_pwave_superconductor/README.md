@@ -1,7 +1,7 @@
 ## 
 </br>程式說明:
 
-</br>step1 四個py檔放於同一目錄
+step1 四個py檔放於同一目錄
 </br>step2 開啟training_parameter.py,按照指示輸入參數(可分為單一訓練或大量訓練)
 </br>step3 執行training_parameter.py,等待生成pkl
 </br>step4 開啟pkl_npz_all.py,更改程式前幾行之參數
