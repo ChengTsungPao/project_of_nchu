@@ -5,9 +5,7 @@
 * 將爬取的空氣資訊製作成折線圖方便觀察
 
 </br>Demo
-![image](./README/README1.PNG){:height="100px" width="400px"}
-![image](./README/README3.png)
-<img src="./README/README1.PNG" style="zoom:10%" />
+![image](README.png)
 
 </br>data resource:
 * https://taqm.epa.gov.tw/taqm/tw/HourlyData.aspx
