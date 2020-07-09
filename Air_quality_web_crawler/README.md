@@ -7,7 +7,7 @@
 </br>Demo
 ![image](./README/README1.PNG)
 ![image](./README/README2.png)
-<img src="./README/README1.PNG" style="zoom:50%" />
+<img src="./README/README1.PNG" style="zoom:10%" />
 
 </br>data resource:
 * https://taqm.epa.gov.tw/taqm/tw/HourlyData.aspx
