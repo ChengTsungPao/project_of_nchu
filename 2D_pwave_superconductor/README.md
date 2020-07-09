@@ -1,4 +1,4 @@
-## 2D_pwave_superconductor_
+## 2D_pwave_superconductor
 </br>程式說明:
 
 step1 四個py檔放於同一目錄
