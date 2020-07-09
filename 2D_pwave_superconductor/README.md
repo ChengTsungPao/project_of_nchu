@@ -9,6 +9,9 @@ step1 四個py檔放於同一目錄
 
 (如果一直有bug那就只好使用training1D.py, training2D.py, training4D.py逐一檔案調參了!!!)
 
+</br>Demo:
+>
+![image](README.png)
 
 </br>note:
 * 預設data路徑為"./train_data" (相較於 training_*.py)
