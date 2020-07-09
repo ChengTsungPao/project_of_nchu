@@ -5,7 +5,7 @@
 * 將爬取的空氣資訊製作成折線圖方便觀察
 
 </br>Demo
-![image](./README/README1.PNG){:height="50%" width="50%"}
+![image](./README/README1.PNG){:height="100px" width="400px"}
 ![image](./README/README2.png)
 <img src="./README/README1.PNG" style="zoom:10%" />
 
