@@ -1,13 +1,12 @@
 ## 
 </br>程式說明:
-
 </br>step1 四個py檔放於同一目錄
 </br>step2 開啟training_parameter.py,按照指示輸入參數(可分為單一訓練或大量訓練)
 </br>step3 執行training_parameter.py,等待生成pkl
 </br>step4 開啟pkl_npz_all.py,更改程式前幾行之參數
 </br>step5 開啟pkl_npz_all.py,然後輸入pkl檔之開始時間,再輸入pkl檔之結束時間,等待執行
 
-(如果一直有bug那就只好使用training1D.py,training2D.py,training4D.py逐一檔案調參了!!!)
+(如果一直有bug那就只好使用training1D.py, training2D.py, training4D.py逐一檔案調參了!!!)
 
 
 </br>註:
