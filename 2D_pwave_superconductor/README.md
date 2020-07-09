@@ -11,7 +11,7 @@ step1 四個py檔放於同一目錄
 
 </br>Demo:
 >
-![image](README1.png)
+![image](README.png)
 
 </br>note:
 * 預設data路徑為"./train_data" (相較於 training_*.py)
