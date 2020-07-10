@@ -5,5 +5,9 @@
 * 資料集不在./data中，上網即時爬取進行分析
 * 利用自定義的空氣品質公式，來評估現在或過去的空氣品質
 
+</br>Demo:
+>
+![image](README.png)
+
 </br>data resource:
 * https://taqm.epa.gov.tw/taqm/tw/HourlyData.aspx
