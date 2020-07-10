@@ -17,5 +17,5 @@ step1 開啟training_parameter.py,按照指示輸入參數
 * Training_parameter.txt 為之前大量訓練之所有參數
 * pkl_npz_all.py"可能"需更改的參數為dimension,kind_of_data,particle_data(控制test data的檔名)
 
-</br>Neural Network Framework:
+</br>Framework:
 * Pytorch
