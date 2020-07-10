@@ -13,7 +13,7 @@ step1 輸入紅血球影像、影像實際長度
 
 </br>Demo:
 >
-![image](./README/README3.png)
+![image](./README/README2.png)
 
 </br>資料來源:
 * ???
